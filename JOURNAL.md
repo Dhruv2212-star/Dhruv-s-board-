@@ -1,4 +1,5 @@
 # Schematic | Time taken- 2 hours and 6 mins  
+Lapse- https://lapse.hackclub.com/timelapse/6EKB5NhbEQ2t  
 1. POWER SYSTEM | 40 mins  
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/585f504a-627f-4519-abcd-cce77cbe3876" />
 2.Block 2A – STM32 Core Power Connections | 10 mins  
@@ -11,8 +12,8 @@
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9bba3ecd-608a-4e8d-a0f6-e09547cf68a3" />
 6. Block 4: GPIO Expansion Headers  | 30 mins
    <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8af840e7-aa8a-4a16-9303-23a047c09c81" />
-7. Added footprints | 6 mins
-Lapse- https://lapse.hackclub.com/timelapse/6EKB5NhbEQ2t  
+7. Added footprints | 6 mins  
+  
 
 
 # PCB tracing | 4 hours 15 mins   
