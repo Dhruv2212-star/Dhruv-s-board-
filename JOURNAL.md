@@ -12,8 +12,17 @@
 6. Block 4: GPIO Expansion Headers  | 30 mins
    <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8af840e7-aa8a-4a16-9303-23a047c09c81" />
 7. Added footprints | 6 mins
-Lapse- https://lapse.hackclub.com/timelapse/6EKB5NhbEQ2t
-# PCB tracing 
+Lapse- https://lapse.hackclub.com/timelapse/6EKB5NhbEQ2t  
+
+
+# PCB tracing | 4 hours 15 mins   
+1. PCB tracing     
+   Lapse-  https://lapse.hackclub.com/timelapse/bnAnlEk-080g  
+   
+2. Graphics for PCB  
+   Lapse- https://lapse.hackclub.com/timelapse/UaSDh8AJdWyV  
+   <img width="1073" height="558" alt="16 07 2026_12 23 58_REC" src="https://github.com/user-attachments/assets/fa75bd0d-c6fd-495a-8898-d9f3cc2ab879" />
+   
 
 
 
