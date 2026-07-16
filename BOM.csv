@@ -1,0 +1,29 @@
+Reference,Value,Footprint
+J1,USB_C_Receptacle_USB2.0_16P,Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A
+F1,Bourns MF-R110,Fuse:Fuse_1206_3216Metric
+D1,ESD9B5.0ST5G,Diode_SMD:D_SOD-923
+C1,10uF X7R 16V,Capacitor_SMD:C_0805_2012Metric
+C2,100nF X7R,Capacitor_SMD:C_0805_2012Metric
+U1,AP2112K-3.3,Package_TO_SOT_SMD:SOT-23-5
+C3,10uF X7R 10V,Capacitor_SMD:C_0805_2012Metric
+C4,100nF X7R,Capacitor_SMD:C_0805_2012Metric
+U2,STM32F103C8Tx,Package_QFP:LQFP-48_7x7mm_P0.5mm
+C5,100nF X7R,Capacitor_SMD:C_0805_2012Metric
+C6,100nF X7R,Capacitor_SMD:C_0805_2012Metric
+C7,100nF X7R,Capacitor_SMD:C_0805_2012Metric
+C8,100nF X7R,Capacitor_SMD:C_0805_2012Metric
+Y1,8MHz Crystal,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm
+C9,22pF,Capacitor_SMD:C_0805_2012Metric
+C10,22pF,Capacitor_SMD:C_0805_2012Metric
+R4,10k,Resistor_SMD:R_0805_2012Metric
+SW2,SW_Push,Button_Switch_SMD:SW_SPST_SKQG_WithoutStem
+R5,10k,Resistor_SMD:R_0805_2012Metric
+SW1,SW_Push,Button_Switch_SMD:SW_SPST_SKQG_WithoutStem
+J2,Conn_02x05_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical
+D2,Power LED,LED_SMD:LED_0805_2012Metric
+R1,1k,Resistor_SMD:R_0805_2012Metric
+D3,User LED,LED_SMD:LED_0805_2012Metric
+R6,330R,Resistor_SMD:R_0805_2012Metric
+J3,Conn_01x04,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical
+J4,Conn_01x20,Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical
+J5,Conn_01x20,Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical
