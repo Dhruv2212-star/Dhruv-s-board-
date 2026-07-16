@@ -1,4 +1,4 @@
-# Schematic | Time taken- 2 and 6 mins hours 
+# Schematic | Time taken- 2 hours and 6 mins  
 1. POWER SYSTEM | 40 mins  
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/585f504a-627f-4519-abcd-cce77cbe3876" />
 2.Block 2A – STM32 Core Power Connections | 10 mins  
